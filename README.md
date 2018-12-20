@@ -5,23 +5,23 @@
 
 ## 源代码结构
 
->	+ **app/assets**
+>	+ **app/assets**  
 存放程序中使用的图标
->	+ **app/libs**
+>	+ **app/libs**  
 存放需要依赖的环境包：BaiduLBS_Android.jar
->	+ **app/src/main/java/com/zhh/mymap/indoorview**
+>	+ **app/src/main/java/com/zhh/mymap/indoorview**  
 关于室内图的源代码文件夹
->	+ **app/src/main/java/com/zhh/mymap/map**
+>	+ **app/src/main/java/com/zhh/mymap/map**  
 程序的主要代码以及离线下载代码文件夹
->	+ **app/src/main/java/com/zhh/mymap/mapapi**
+>	+ **app/src/main/java/com/zhh/mymap/mapapi**  
 图层（热力图、交通图、卫星图）的代码文件夹
->	+ **app/src/main/java/com/zhh/mymap/service**
+>	+ **app/src/main/java/com/zhh/mymap/service**  
 定位服务代码文件夹
->	+ **app/src/main/java/com/zhh/mymap/Application.java**
+>	+ **app/src/main/java/com/zhh/mymap/Application.java**  
 程序的入口代码
->	+ **app/src/main/jniLibs**
+>	+ **app/src/main/jniLibs**  
 依赖库
->	+ **app/src/main/res**
+>	+ **app/src/main/res**  
 程序资源文件
 
 ## **环境**
